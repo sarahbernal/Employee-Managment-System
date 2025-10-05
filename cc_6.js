@@ -1,3 +1,4 @@
+//Coding Challenge 06
 //Create a base class 
 class Employee {
     constructor(name, department) {
